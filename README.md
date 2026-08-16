@@ -25,6 +25,10 @@ IT시스템·SI / QA·TestOps / 백엔드 직무를 중심으로 지원하고 �
 - **수치에는 조건을 붙입니다.** 어떤 표본, 어떤 시나리오에서 잰 값인지 없이 쓰지 않습니다.
 - **기준에 못 미치면 내보내지 않고, 그 원인을 해결해 다시 냅니다.** 자동 검증을 다 통과한 릴리스를 잔여 오답 때문에 보류한 뒤, 잘못된 값이 저장되는 경로 자체를 없애고 재출시한 적이 있습니다.
 
+### 오픈소스
+
+- [pydantic/logfire #2260](https://github.com/pydantic/logfire/pull/2260) — CLI 기본 URL을 `LOGFIRE_BASE_URL` 환경변수에서 읽도록 하는 PR **제출·리뷰 진행 중**
+
 ### 기술
 
 **언어** Java · Kotlin · Python · JavaScript · SQL
