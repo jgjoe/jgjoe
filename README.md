@@ -29,7 +29,7 @@ IT시스템·SI·전산과 소프트웨어 품질을 중심으로, 백엔드와 
 
 ### 오픈소스
 
-- [pydantic/logfire #2260](https://github.com/pydantic/logfire/pull/2260) — CLI 기본 URL을 `LOGFIRE_BASE_URL` 환경변수에서 읽도록 하는 PR **제출·리뷰 진행 중**
+- [pydantic/logfire #2260](https://github.com/pydantic/logfire/pull/2260) — CLI 기본 URL을 `LOGFIRE_BASE_URL` 환경변수에서 읽도록 하는 PR **제출 · maintainer 검토 대기 중**
 - [huggingface/sentence-transformers #3923](https://github.com/huggingface/sentence-transformers/issues/3923) — scale-to-zero 환경의 콜드스타트를 구간별로 측정해 배포 가이드 문서화를 **제안**(이슈)
 
 ### 기술
