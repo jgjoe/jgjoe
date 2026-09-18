@@ -15,8 +15,8 @@ IT시스템·SI·전산과 소프트웨어 품질을 중심으로, 백엔드와 
 
 | 프로젝트 | 검증된 결과 |
 |---|---|
-| **[혜택나침반](https://github.com/jgjoe/benefit-compass)** | 자체 라벨링 60문항 평가셋 기준 recall@1 0.40 → 0.52 · 정책 2,631건 · [평가셋·측정 스크립트 공개](https://github.com/jgjoe/benefit-compass/tree/main/eval) |
-| **[오늘도 신선](https://github.com/jgjoe/Fridge-D-Day)** | 한국 라벨 55장 · D-30 시나리오 기준 OCR 일치율 67.27% → 72.73% · 잔여 오답으로 배포를 보류한 뒤 사용자 확인 흐름을 넣어 재출시 ([QA 기록](https://github.com/jgjoe/Fridge-D-Day/blob/main/QA_RELEASE_RECORD.md)) |
+| **[혜택나침반](https://github.com/jgjoe/benefit-compass)** | 온통청년·정부24 **13,589개 정책 · 17,609개 검색 청크 · 임베딩 누락 0건** · production-parity 평가에서 리랭커 **No-Go**, 공개 경로 `RERANK=0` · [평가셋·측정 스크립트 공개](https://github.com/jgjoe/benefit-compass/tree/main/eval) |
+| **[오늘도 신선](https://github.com/jgjoe/Fridge-D-Day)** | v2.0.0/code5 exact RC **JVM unit 107/107 · lint 0 errors · Galaxy A32 non-OCR 65/65** · ONEstore 공개 · Google Play closed Alpha · 잔여 OCR 오답으로 출시 보류 후 사용자 확인 흐름 도입 ([QA 기록](https://github.com/jgjoe/Fridge-D-Day/blob/main/QA_RELEASE_RECORD.md)) |
 | **[gildongE](https://github.com/jgjoe/gildongE)** | 5개 도메인 REST API와 MongoDB 문서 모델 · 캡스톤 은상, 학회 논문 공저 |
 | **[Build Your Health](https://github.com/jgjoe/Build-Your-Health)** | 프레임워크 없이 JSP/Servlet만으로 업무 도메인 8개·JSP 54개 · 필터로 요청 경로·처리 시간 로깅 |
 | **[Movie Diary](https://github.com/jgjoe/movie_diary)** | Gemini 호출 async 전환 · Cloud Run scale-to-zero로 상시 서버 비용 제거 |
