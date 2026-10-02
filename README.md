@@ -1,6 +1,6 @@
 # Jigwan Joe
 
-**Backend · Data Systems · Software Quality**
+**Backend · Data Engineering**
 
 I build backend and data systems with consistent, reproducible results, verified with tests and real data before shipping.
 
@@ -9,6 +9,6 @@ I build backend and data systems with consistent, reproducible results, verified
 
 ### Stack
 
-**Languages:** Python · Java · Kotlin · SQL  
-**Backend / Data:** Spring Boot · FastAPI · DuckDB · PostgreSQL · MongoDB · Airflow  
+**Languages:** Python · Java · Kotlin · TypeScript · SQL  
+**Backend / Data:** Spring Boot · FastAPI · MyBatis · DuckDB · PostgreSQL · Oracle · MongoDB · Airflow  
 **Quality / Ops:** pytest · JUnit · Playwright · GitHub Actions · Docker · Cloud Run
